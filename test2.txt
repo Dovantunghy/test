@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 vua moi them vao day
 toi vua sua lai mat roi...........
+=======
+>>>>>>> parent of 2b2226b... Add text change test2.txt
